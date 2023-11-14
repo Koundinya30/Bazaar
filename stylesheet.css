@@ -1,0 +1,53 @@
+
+/* body html */
+
+body {
+    background-color: antiquewhite;
+}
+
+/* body html */
+.cart {
+    margin: .5%;
+    padding:.5%;
+}
+
+/* home page */
+.mission {
+    margin: 1%;
+    color: green;
+    text-align: center;
+    font-family: ui-serif;
+
+}
+.home {
+    margin: auto;
+    font-family: ui-serif;
+    font-size: large;
+    background-color: lightcyan;
+    padding: 20px;
+
+}
+
+/* fruits  */
+
+.fruits {
+    margin:1%;
+    padding: auto;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.fruits div {
+    border: 0.3px dotted darkgreen;
+    margin: auto;
+}
+
+table {
+    margin: auto;
+}
+
+/* footer  */
+footer {
+    margin-top: 100px;
+}
