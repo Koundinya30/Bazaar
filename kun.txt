@@ -1,0 +1,112 @@
+<section id="fruits" class="fruits">
+        <div class="apple" class="border">
+            <img src="Picture/apple.jpg" alt="apple" height="230" width="230">
+            <table>
+                <tr>
+                    <td>Apple</td>
+                </tr>
+                <tr>
+                    <td>$45
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <button onclick="
+                            {
+                                add_to_cart
+                            }
+                            ">Add to cart </button>
+                    </td>
+                </tr>
+            </table>
+        </div>
+        <div class="pineapple">
+            <img src="Picture/pineapple.jpg" alt="pineapple" height="230" width="200">
+            <table>
+                <tr>
+                    <td>Pineapple</td>
+                </tr>
+                <tr>
+                    <td>$34
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <button>Add to cart </button>
+                    </td>
+                </tr>
+
+            </table>
+        </div>
+        <div class="mango">
+            <img src="Picture/mangos.jpeg" alt="mango" height="230" width="200">
+            <table>
+                <tr>
+                    <td>Mango</td>
+                </tr>
+                <tr>
+                    <td>$50
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <button>Add to cart </button>
+                    </td>
+                </tr>
+
+            </table>
+        </div>
+        <div class="banana">
+            <img src="Picture/banana.jpg" alt="banana" height="230" width="200">
+            <table>
+                <tr>
+                    <td>Banana</td>
+                </tr>
+                <tr>
+                    <td>$25
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <button>Add to cart </button>
+                    </td>
+                </tr>
+            </table>
+        </div>
+        <div class="guava">
+            <img src="Picture/guava.jpg" alt="guava" height="230" width="200">
+            <table>
+                <tr>
+                    <td>Guava</td>
+                </tr>
+                <tr>
+                    <td>$34
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <button>Add to cart </button>
+                    </td>
+                </tr>
+
+            </table>
+        </div>
+        <div class="lime">
+            <img src="Picture/lime.jpg" alt="lime" height="230" width="200">
+            <table>
+                <tr>
+                    <td>Lime</td>
+                </tr>
+                <tr>
+                    <td>$40
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <button>Add to cart </button>
+                    </td>
+                </tr>
+
+            </table>
+        </div>
+    </section>
